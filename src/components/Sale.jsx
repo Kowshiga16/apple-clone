@@ -2,7 +2,7 @@
 import React from "react";
 
 // Import your images (make sure paths are correct)
-import Airpod4 from "../images/Airpod4.jpeg";
+import AirPod4 from "../images/AirPod4.jpeg";
 import IpadPro from "../images/IpadPro.jpg";
 import IpadAir  from "../images/IpadAir.jpg";
 import MacBookPro from "../images/MacBookPro.jpg";
@@ -13,7 +13,7 @@ const products = [
   {
     title: "AirPods 4",
     subtitle: "Rebuilt from the sound up.",
-    img: Airpod4,
+    img: AirPod4,
   },
   {
     title: "iPad Pro",
